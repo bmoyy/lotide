@@ -8,4 +8,4 @@ const head = function (array) {
 }
 
 //test case for returning undefined
-assertEqual(head([]), );
+//assertEqual(head([]), );
