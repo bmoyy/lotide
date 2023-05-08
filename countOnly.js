@@ -14,3 +14,5 @@ const countOnly = function(allItems, itemstoCount) {
   return result;
 
 }
+
+module.exports = countOnly;

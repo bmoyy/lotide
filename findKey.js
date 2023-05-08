@@ -25,3 +25,5 @@ const findKey = function(object,callback) {
 //   "Ora":       true,
 //   "Akelarre":  "hi"
 // }, isTruthy), "Blue Hill");
+
+module.exports = findKey;
